@@ -1,5 +1,5 @@
 total 124
-drwxr-xr-x 2 root root  4096 Apr  6 01:13 .
+drwxr-xr-x 2 root root  4096 Apr  6 01:42 .
 drwxr-xr-x 5 root root   105 Apr  5 16:14 ..
 -rwxr--r-- 1 root root    32 Apr  5 22:38 0-hello_world
 -rwxr--r-- 1 root root    49 Apr  4 14:24 10-no_more_js
@@ -25,7 +25,7 @@ drwxr-xr-x 5 root root   105 Apr  5 16:14 ..
 -rwxr--r-- 1 root root    40 Apr  5 23:47 6-third_line
 lrwxrwxrwx 1 root root    23 Apr  6 01:03 .#7-file -> root@a36688d043e6.10596
 -rwxr--r-- 1 root root    71 Apr  6 00:52 7-file
--rwxr--r-- 1 root root    37 Apr  4 13:56 8-cwd_state
+-rwxr--r-- 1 root root    36 Apr  6 01:42 8-cwd_state
 -rwxr--r-- 1 root root    44 Apr  4 14:06 9-duplicate_last_line
--rw-r--r-- 1 root root     0 Apr  6 01:34 ls_cwd_content
+-rw-r--r-- 1 root root     0 Apr  6 01:45 ls_cwd_content
 -rw-r--r-- 1 root root    57 Apr  4 04:04 README.md
