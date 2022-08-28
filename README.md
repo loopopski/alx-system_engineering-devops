@@ -1,3 +1,2 @@
-# System engineering & Devops.
-
-Module of System engineering and Devops, carried out during Full Stack Software Engineering studies With ALX and Holberton School.
+Networking basics
+Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn about what is an OSI model, LAN, WAN, IP address, localhost, subnet and TCP/UDP.
