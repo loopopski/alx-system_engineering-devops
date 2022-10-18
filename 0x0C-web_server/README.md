@@ -403,4 +403,3 @@ Requirements:
 -   GitHub repository: `alx-system_engineering-devops`
 -   Directory: `0x0C-web_server`
 -   File: `7-puppet_install_nginx_web_server.pp`
-
