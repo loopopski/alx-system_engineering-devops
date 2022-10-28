@@ -1,3 +1,10 @@
+#!/usr/bin/env bash
+"""Secure HTTPS traffic
+   so that no unencrypted traffic is possible
+   Configure HAproxy to automatically
+   redirect HTTP traffic to HTTPS.
+   """
+
 global
     log     /dev/log local0
     maxconn 2048
