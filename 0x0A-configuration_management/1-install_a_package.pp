@@ -1,6 +1,8 @@
-# Installs puppet-lint, version 2.1.1
-
-package { 'puppet-lint':
-ensure   => '2.1.1',
-provider => 'gem',
+#!/usr/bin/pup
+#creates a file
+file { '/tmp/school':
+    content => 'I love Puppet',
+    mode    => '0744',
+    owner   => 'www-data',
+    group   => 'www-data',
 }
